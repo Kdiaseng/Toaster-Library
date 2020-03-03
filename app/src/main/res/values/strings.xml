@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ToasterExample</string>
+    <string name="toast_center_start">Toast START</string>
+    <string name="toast_center_verticall">Toast CENTER VERTICAL</string>
+    <string name="toast_center">Toast CENTER DEFAULT</string>
+    <string name="toast_custom">Toast Custom</string>
 </resources>
